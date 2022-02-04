@@ -1,0 +1,26 @@
+body {
+  font-family: "Oxygen", sans-serif;
+  font-size: "16px";
+  color: #222;
+  background-color: burlywood;
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+}
+code {
+  font-family: monospace;
+  padding: 2px;
+  background-color: #fff;
+}
+.container {
+  padding: 0;
+  margin-top: 40px;
+}
+.footer {
+  margin-top: 100px;
+}
+a {
+  color: #2574a9;
+}
