@@ -28,7 +28,6 @@ app.get("/api/hello", function (req, res) {
 });
 
  const timeObj = {}
- // Timestamp begins here
 app.get('/api/:date_string', 
       (req, res)=>{
      var date_string = req.params.date_string;
